@@ -5,7 +5,7 @@ The specificity of this digital vault is that minimum two users are required to 
 This is done by using Shamir Secret Sharing to split the master key between the users. All the cryptographic operations on files are executed on the client side. The server only stores them. It never has access to the plaintext or the encryption keys.  
 This application was initially coded as part of the Applied Cryptography course of the HEIG-VD.  
 
-You will find more details in doc package.
+You will find more details in [doc package](https://github.com/superjeffcplusplus/file-vault-js/tree/main/packages/doc).
 
 ## Project architecture and development
 This project use [pnpm](https://pnpm.io/installation) to manage packages and run dev scripts.
