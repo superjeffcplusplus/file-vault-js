@@ -1,0 +1,16 @@
+{
+  "name": "vault-lib",
+  "version": "0.1.5",
+  "description": "Protocol defining interactions between server and client",
+  "main": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "Jean-François Pasche",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
